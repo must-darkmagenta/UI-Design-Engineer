@@ -10,7 +10,9 @@ Three early skills for autonomous agents building and reviewing web products. Th
 | [Senior Product Experience Auditor](skills/senior-product-experience-auditor/SKILL.md) | Reviewing a screen, journey, gated web app, or launch | Ranked findings with evidence, route coverage, and explicit untested steps. |
 | [Search and Answer Readiness](skills/search-answer-readiness/SKILL.md) | Checking public-page SEO/AEO prerequisites | Crawl, rendering, content, and answer-readiness checks with evidence and limits; no visibility score. |
 
-Use one skill for the task. The UI skill routes review requests to the auditor; the auditor can use the search skill for public-page discoverability. A wallet or sign-up gate is a handoff point: the auditor should ask for safe test access before claiming to have reviewed protected steps.
+Use one skill for the task. The UI skill supports focused design reviews; the auditor covers whole product journeys. Both include the same design-principles inspection reference; the auditor can use the search skill for public-page discoverability. A wallet or sign-up gate is a handoff point: the auditor should ask for safe test access before claiming to have reviewed protected steps.
+
+Canonical source: [teelda/ui-design-engineer](https://github.com/teelda/ui-design-engineer). This colleague review copy keeps the same skill content; installation commands point to this repository.
 
 ## Try the product auditor
 
